@@ -1,0 +1,13 @@
+2021.9.25 12:30 am: search for c++ vector length: https://www.cplusplus.com/reference/vector/vector/size/
+2021.9.26 4:30 pm: initialize an array in c++: https://www.geeksforgeeks.org/how-to-initialize-array-of-objects-with-parameterized-constructors-in-c/
+	 Bug: constructor takes in reference, which is a lvalue, but I passed in a rvalue.
+2021.9.27 12:30am: 
+         Bug: 1. thought origin is bottom left corner, and also messed up with the barycentric color formula,
+	        which led to blue and red colors were not in the right spot.
+	      2. regular pentagon has weird sixth vertex: 
+          1:50 am: solution: forgot to reset xleft xright in each loop of y
+2021.9.27 5:30 pm: search how to initialize std::array with values: https://www.zhihu.com/question/421950890/answer/1482988206
+
+2021.9.28 11:40 pm: glm how to get rotation matrix: https://stackoverflow.com/questions/8844585/glm-rotate-usage-in-opengl
+
+2021.9.29 12:15am: bug: when I set light direction to forward vector, it's dark: https://en.wikipedia.org/wiki/Lambertian_reflectance
